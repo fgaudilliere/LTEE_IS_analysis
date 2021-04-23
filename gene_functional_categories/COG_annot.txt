@@ -1,0 +1,26 @@
+#	Cog_letter	Cog_class	Cog_function
+A	Information storage and processing	RNA processing and modification	
+B	Information storage and processing	Chromatin Structure and dynamics
+C	Metabolism	Energy production and conversion
+D	Cellular processes and signaling	Cell cycle control and mitosis
+E	Metabolism	Amino Acid metabolis and transport
+F	Metabolism	Nucleotide metabolism and transport
+G	Metabolism	Carbohydrate metabolism and transport
+H	Metabolism	Coenzyme metabolism
+I	Metabolism	Lipid metabolism
+J	Information storage and processing	Translation
+K	Information storage and processing	Transcription
+L	Information storage and processing	Replication and repair
+M	Cellular processes and signaling	Cell wall/membrane/envelop biogenesis
+N	Cellular processes and signaling	Cell motility
+O	Cellular processes and signaling	Post-translational modification, protein turnover, chaperone functions
+P	Metabolism	Inorganic ion transport and metabolism
+Q	Metabolism	Secondary Structure
+T	Cellular processes and signaling	Signal Transduction
+U	Cellular processes and signaling	Intracellular trafficing and secretion
+V	Cellular processes and signaling	Defense mechanisms
+W	Cellular processes and signaling	Extracellular structures
+Y	Cellular processes and signaling	Nuclear structure
+Z	Cellular processes and signaling	Cytoskeleton
+R	Unknown	General Functional Prediction only
+S	Unknown	Function Unknown
